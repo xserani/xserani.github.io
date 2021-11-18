@@ -9,9 +9,11 @@ a:visited {
 body {
 	font-family: "Marker Felt", "Comic Sans MS", fantasy;
 	color: #0d0da5;
-	background: url(2maki/t.gif);
-	background-repeat: repeat-y
-}
+	background: url(2maki/t.gif)no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 h1 {
 	font-size: 2.0em;
