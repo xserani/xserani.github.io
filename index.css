@@ -9,7 +9,7 @@ a:visited {
 body {
 	font-family: "Marker Felt", "Comic Sans MS", fantasy;
 	color: #0d0da5;
-	background: url(https://xserani.github.io/2maki/t.gif);
+	background-image: url(https://xserani.github.io/2maki/t.gif);
 	background-repeat: repeat-y
 }
 
